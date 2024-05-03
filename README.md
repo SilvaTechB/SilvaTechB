@@ -1,5 +1,5 @@
 <h1 align="center"> 𝐒𝚰𝐋𝛁𝚫 𝚻𝚵𝐂𝚮💋 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="150"></h1> 
  <br>
 
 
