@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+am+Silva+Tech..&hearts;++;Self-taught+Back-End+Developer,;From+Kenya🇰🇪,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..🥂💕">
   </a>
 
-[![ ☠⃝²⁰²⁴ ∅ 𝐒𝚰𝐋𝛁𝚫 ☣𝚻𝚵𝐂𝚮💋☠ KE](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Friend%F0%9F%91%8B!;My+Name+is+silva+Tech;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+East+Africa-Kenya;Nice+to+Meet+You)](https://github.com/SilvaTechB)
+[![ ☠⃝²⁰²⁴ ∅ 𝐒𝚰𝐋𝛁𝚫 ☣𝚻𝚵𝐂𝚮💋☠ KE](https://readme-typing-svg.demolab.com?font=Stencil&size=30&pause=998&color=F51FFF&background=yellow&vCenter=true&random=false&width=480&lines=Hello+Friend%F0%9F%91%8B!;My+Name+is+silva+Tech;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+East+Africa-Kenya;Nice+to+Meet+You)](https://github.com/SilvaTechB)
 
 
 ![My card name](https://cardivo.vercel.app/api?name=Silva%20TECH%20&description=Hola!,%20Welcome%20To%20My%20Profile&image=https://github.com/SilvaTechB.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=green&tiktok=@silva.edits6&github=SilvaTechB&)
