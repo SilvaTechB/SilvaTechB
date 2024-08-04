@@ -26,7 +26,7 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Xei%20Sensei&quote=Success%20is%20not%20final,%20failure%20is%20not%20fatal:%20It%20is%20the%20courage%20to%20continue%20that%20counts.&theme=dark&bg_color=011627&author_color=ffeb95&api=Yanni">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Silva%20Tech&quote=Success%20is%20not%20final,%20failure%20is%20not%20fatal:%20It%20is%20the%20courage%20to%20continue%20that%20counts.&theme=dark&bg_color=011627&author_color=ffeb95&api=Yanni">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
