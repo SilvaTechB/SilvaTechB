@@ -15,7 +15,7 @@
 </p>
 <p> <b>Connect With me:</b></p>
 <p>
-<a href="https://wa.me/message/254700143167"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://tiktok.com/@silva.edits6"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/tiktok.png" width="11%"> </a><a href="https://www.facebook.com/silva"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/silva"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/x.png" width="10%"> </a>
+<a href="https://wa.me/message/254700143167"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://tiktok.com/@silva.edits6"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%"> </a><a href="https://www.facebook.com/silva"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/silva"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
 </p>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SilvaTechB&label=Visitors%20count&color=10d9c3&style=plastic" alt="Silva Tech" /> </p>
@@ -43,20 +43,11 @@
 </div>
 
 - 👋 Hi, I’m @SilvaTechB <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-- 👀 I’m interested in ... coding 
-
-- 🌱 I’m currently learning ... 
-
-- 💞️ I’m looking to collaborate on ... bot creation 
-
-- 📫 How to reach me ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
-
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilvaTechB&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 <!---
 SilvaTechB/SilvaTechB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
