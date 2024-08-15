@@ -50,6 +50,7 @@
     </a>
 </div>
 
+<img align= "right" width= "240" src= "https://media.tenor.com/YM91d6z3icQAAAAi/anime.gif"/>
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
