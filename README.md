@@ -4,7 +4,7 @@
 <h1 align="center"> 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉⭐ 
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="150"></h1> 
  <br>
-
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -12,10 +12,11 @@
   </a>
 
 [![ ☠⃝²⁰²⁴ ∅ 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉 ⭐☠ KE](https://readme-typing-svg.demolab.com?font=Stencil&size=30&pause=998&color=F51FFF&background=yellow&vCenter=true&random=false&width=480&lines=Hello+Friend%F0%9F%91%8B!;My+Name+is+silva+Tech;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+East+Africa-Kenya;Nice+to+Meet+You)](https://github.com/SilvaTechB)
-
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ![My card name](https://cardivo.vercel.app/api?name=Silva%20TECH%20&description=Hola!,%20Welcome%20To%20My%20Profile&image=https://github.com/SilvaTechB.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=grey&instagram=@_its.silva&github=SilvaTechB&youtube=@silvaedits254)
 </p>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p> <b>Connect With me:</b></p>
 <p>
 <a href="https://wa.me/message/254743706010"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://tiktok.com/@silva.edits6"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram.png" width="11%"> </a><a href="https://www.facebook.com/silva"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/silva"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
@@ -26,13 +27,13 @@
 </details>
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Silva%20Tech&quote=Success%20is%20not%20final,%20failure%20is%20not%20fatal:%20It%20is%20the%20courage%20to%20continue%20that%20counts.&theme=dark&bg_color=011627&author_color=ffeb95&api=Yanni">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 </p>
 <br><br>
@@ -52,7 +53,7 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SilvaTechB&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Silva" />
     </a>
 </div>
-
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
@@ -65,7 +66,9 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilvaTechB&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <!---
 SilvaTechB/SilvaTechB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
