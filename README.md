@@ -1,8 +1,7 @@
 
 <img align= "center" width= "240" src= "https://media.tenor.com/YM91d6z3icQAAAAi/anime.gif"/>
 
-<h1 align="center"> 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉⭐ 
-<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="150"></h1> 
+<h1 align="center"> 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉⭐ </h1> 
  <br>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
