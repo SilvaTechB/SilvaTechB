@@ -1,5 +1,4 @@
-
-<h1 <img align= "center" width= "240" src= "https://media.tenor.com/YM91d6z3icQAAAAi/anime.gif"/> </h1>
+ <img align= "center" width= "240" src= "https://media.tenor.com/YM91d6z3icQAAAAi/anime.gif"/> 
 
 <h1 align="center"> 𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉⭐ </h1> 
  <br>
