@@ -1,0 +1,69 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  # Schedule updates (every day at midnight)
+  schedule: [{cron: "0 0 * * *"}]
+  # Run workflow manually and on each commit
+  workflow_dispatch:
+  push:
+    branches: ["master", "main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # GitHub username
+          user: SilvaTechB
+          
+          # Template and Base Configurations
+          template: classic
+          base: header, activity, repositories, metadata
+          config_timezone: Africa/Nairobi
+
+          # Plugins
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year  
+
+          plugin_lines: yes
+
+          plugin_notable: yes
+
+          plugin_languages: yes
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+
+          plugin_repositories: yes
+          plugin_repositories_featured: SilvaTechB/silva-md-bot, SilvaTechB/darkworld-md, SilvaTechB/silva-ap-is
+
+          plugin_stars: yes
+          plugin_stars_limit: 5
+
+          plugin_anilist: yes
+          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites, watching, reading, characters
+          plugin_anilist_limit: 5
+          plugin_anilist_limit_characters: 20
+
+          plugin_skyline: yes
+          plugin_skyline_year: 2023     
+          plugin_skyline_frames: 60         
+          plugin_skyline_quality: 0.5   
+          plugin_skyline_compatibility: yes
