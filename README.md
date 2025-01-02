@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=19&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+Silva's+Tech+Hub!;Frontend+Developer+|+Bot+Creator+|+API+Wizard;Lover+of+Crazy+Projects+✨;Always+Learning+and+Innovating💡;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=22&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+Silva's+Tech+Hub!;Frontend+Developer+|+Bot+Creator+|+API+Wizard;Lover+of+Innovative+Projects+✨;Building+the+Future,+One+Line+at+a+Time💡;Stay+Curious,+Stay+Creative!">
   </a>
 </p>
 
@@ -17,9 +17,9 @@
 2. [Key Projects](#-key-projects)
 3. [Connect With Me](#-connect-with-me)
 4. [My Stack](#-my-stack)
-5. [GitHub Metrics](#-github-metrics)
-6. [Quote of the Day](#-quote-of-the-day)
-7. [Contribution Graph](#-contribution-graph)
+5. [Quote of the Day](#-quote-of-the-day)
+6. [Contribution Graph](#-contribution-graph)
+7. [Featured Projects](#-featured-projects)
 
 ---
 
@@ -29,6 +29,7 @@
 - **Main Projects**:
   - **Silva MD Bot**: A multi-functional WhatsApp bot featuring auto-reactions, motivational quotes, status interactions, and media downloading.
   - **DARKWORLD MD**: My latest bot creation, loaded with new experimental features.
+  - **Silva Spark**: A cutting-edge platform combining AI automation with user engagement.
   - **API Repository**: Hosting my APIs on [Vercel](https://silva-ap-is.vercel.app).
 ![My card name](https://cardivo.vercel.app/api?name=Silva%20TECH%20&description=Hola!,%20Welcome%20To%20My%20Profile&image=https://github.com/SilvaTechB.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=grey&instagram=@_its.silva&github=SilvaTechB&youtube=@silvaedits254)
 ---
@@ -39,6 +40,7 @@
 | **Silva MD Bot** | Feature-rich WhatsApp bot for auto-reactions, downloads, quotes, and more. | [Repo](https://github.com/SilvaTechB/silva-md-bot) |
 | **API Repository** | A collection of APIs hosted on Vercel for various applications. | [Vercel Site](https://silva-ap-is.vercel.app) |
 | **DARKWORLD MD** | My newest WhatsApp bot project with an experimental twist! | Coming Soon |
+| **Silva Spark** | A revolutionary platform integrating AI tools with enhanced automation. | Coming Soon |
 
 ---
 
@@ -56,15 +58,6 @@
 <p align="center">
   <img width="500px" src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10" />
 </p>
-
----
-
-### 📈 GitHub Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilvaTechB&theme=dark&show_icons=true&count_private=true" align="center" />
-  <a href="https://github.com/SilvaTechB"><img src="https://github-readme-streak-stats.herokuapp.com?user=SilvaTechB&theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilvaTechB&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
 
 ---
 
@@ -92,7 +85,7 @@
 ---
 
 ### 🎨 GitHub Skyline
-> [Check out my GitHub Skyline!](https://skyline.github.com/SilvaTechB/2024)
+> [Check out my GitHub Skyline!](https://skyline.github.com/SilvaTechB/2025)
 
 This 3D representation shows my coding journey over time. Visit the link for a real-time 3D view of my contributions!
 
@@ -128,7 +121,6 @@ This 3D representation shows my coding journey over time. Visit the link for a r
 ---
 
 ### 📊 Contributions Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilvaTechB&bg_color=0d1117&color=5BCDEC&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&radius=16" alt="Contribution Graph" />
 </p>
@@ -137,12 +129,13 @@ This 3D representation shows my coding journey over time. Visit the link for a r
 ### 📂 Featured Projects
 
 <div align="center">
-  
+
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
 | [Silva MD Bot](https://github.com/SilvaTechB/silva-md-bot) | A WhatsApp bot with rich features for automated responses, media handling, and more. | Node.js, Baileys API |
 | [API Hub](https://silva-ap-is.vercel.app) | A hub of APIs designed for streamlined access to various data services, hosted on Vercel. | JavaScript, Vercel, REST API |
 | [Darkworld MD Bot](https://github.com/SilvaTechB/darkworld-md) | A versatile WhatsApp bot with unique interactive features and multi-language support. | Node.js, Baileys API, MongoDB |
+| [Silva Spark](https://github.com/SilvaTechB/silva-spark) | An AI-powered platform for enhanced automation and productivity. | Python, React, Flask |
 
 </div>
 
@@ -153,6 +146,7 @@ This 3D representation shows my coding journey over time. Visit the link for a r
 - 🔹 **[Silva MD Bot](https://github.com/SilvaTechB/silva-md-bot)** - Automated WhatsApp bot that supports media downloads, motivational message responses, status reactions, and more.
 - 🔹 **[API Hub](https://silva-ap-is.vercel.app)** - A curated collection of APIs, designed for easy access and integration into various projects.
 - 🔹 **[Darkworld MD Bot](https://github.com/SilvaTechB/darkworld-md)** - WhatsApp bot that reacts to tags, messages, and has several unique group management features.
+- 🔹 **[Silva Spark](https://github.com/SilvaTechB/silva-spark)** - AI-driven platform that combines automation with advanced productivity tools.
 
 ---
 
@@ -168,8 +162,7 @@ This 3D representation shows my coding journey over time. Visit the link for a r
   <a href="https://github.com/SilvaTechB/darkworld-md">
     <img src="https://img.shields.io/badge/Darkworld%20MD%20Bot-4CAF50?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://github.com/SilvaTechB/silva-spark">
+    <img src="https://img.shields.io/badge/Silva%20Spark-8A2BE2?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
-
-### 📊 GitHub Metrics
-![GitHub Metrics](https://github.com/SilvaTechB/SilvaTechB/blob/main/github-metrics.svg)
-
