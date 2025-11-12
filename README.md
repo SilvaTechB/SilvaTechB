@@ -1,3 +1,5 @@
+![SILVA TECH](https://github.com/SilvaTechB/SilvaTechB/blob/main/animated_name.svg)
+
 <p align="center">
   <img src="https://media.tenor.com/YM91d6z3icQAAAAi/anime.gif" width="220" alt="Welcome Animation"/>
 </p>
