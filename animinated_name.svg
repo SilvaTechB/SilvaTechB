@@ -1,76 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a" />
-      <stop offset="100%" stop-color="#1e293b" />
-    </linearGradient>
-    
-    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#4ade80" />
-      <stop offset="50%" stop-color="#22d3ee" />
-      <stop offset="100%" stop-color="#4ade80" />
-    </linearGradient>
-    
-    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#4ade80" stroke-width="0.5" opacity="0.2" />
-    </pattern>
-    
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
-      <feMerge> 
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-  <!-- Background -->
-  <rect width="100%" height="100%" fill="url(#bgGradient)" />
-  <rect width="100%" height="100%" fill="url(#gridPattern)" />
-  
-  <!-- Animated Glow Effect -->
-  <circle cx="300" cy="100" r="120" fill="url(#techGradient)" opacity="0.15">
-    <animate attributeName="r" values="120;140;120" dur="4s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.15;0.25;0.15" dur="4s" repeatCount="indefinite" />
-  </circle>
-  
-  <!-- Main Logo Text -->
-  <text x="300" y="100" text-anchor="middle" dy="0.35em" font-family="Russo One, sans-serif" font-size="64" font-weight="bold" fill="none" stroke="url(#techGradient)" stroke-width="2" filter="url(#glow)">
-    SILVA TECH
-    <animate attributeName="stroke-dasharray" values="0 500; 250 0; 0 500" dur="5s" repeatCount="indefinite" />
-    <animate attributeName="stroke-width" values="2;3;2" dur="3s" repeatCount="indefinite" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120">
+  <style>
+    svg {
+      font-family: "Russo One", sans-serif;
+      width: 100%;
+      height: 100%;
+    }
+    svg text {
+      animation: stroke 5s infinite alternate;
+      stroke-width: 2;
+      stroke: #365FA0;
+      font-size: 100px;
+    }
+    @keyframes stroke {
+      0% {
+        fill: rgba(72, 138, 204, 0);
+        stroke: rgba(54, 95, 160, 1);
+        stroke-dashoffset: 25%;
+        stroke-dasharray: 0 50%;
+        stroke-width: 2;
+      }
+      70% {
+        fill: rgba(72, 138, 204, 0);
+        stroke: rgba(54, 95, 160, 1);
+      }
+      80% {
+        fill: rgba(72, 138, 204, 0);
+        stroke: rgba(54, 95, 160, 1);
+        stroke-width: 3;
+      }
+      100% {
+        fill: rgba(72, 138, 204, 1);
+        stroke: rgba(54, 95, 160, 0);
+        stroke-dashoffset: -25%;
+        stroke-dasharray: 50% 0;
+        stroke-width: 0;
+      }
+    }
+  </style>
+  <text x="50%" y="50%" dy=".35em" text-anchor="middle">
+    SILVATRIX
   </text>
-  
-  <!-- Filled Text Overlay -->
-  <text x="300" y="100" text-anchor="middle" dy="0.35em" font-family="Russo One, sans-serif" font-size="64" font-weight="bold" fill="url(#techGradient)" opacity="0">
-    SILVA TECH
-    <animate attributeName="opacity" values="0;0.8;0" dur="5s" repeatCount="indefinite" />
-  </text>
-  
-  <!-- Subtitle -->
-  <text x="300" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" letter-spacing="3" fill="#94a3b8">
-    INNOVATION & TECHNOLOGY
-    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite" />
-  </text>
-  
-  <!-- Tech Elements -->
-  <g opacity="0.6">
-    <!-- Circuit lines -->
-    <path d="M 100 50 L 150 50 L 150 70 L 200 70" stroke="#4ade80" stroke-width="2" fill="none" stroke-dasharray="5,5">
-      <animate attributeName="stroke-dashoffset" values="0;20" dur="1s" repeatCount="indefinite" />
-    </path>
-    <path d="M 500 50 L 450 50 L 450 70 L 400 70" stroke="#22d3ee" stroke-width="2" fill="none" stroke-dasharray="5,5">
-      <animate attributeName="stroke-dashoffset" values="0;20" dur="1s" repeatCount="indefinite" />
-    </path>
-    
-    <!-- Binary code effect -->
-    <text x="80" y="180" font-family="monospace" font-size="12" fill="#4ade80" opacity="0.7">
-      1010
-      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2s" repeatCount="indefinite" />
-    </text>
-    <text x="520" y="180" font-family="monospace" font-size="12" fill="#22d3ee" opacity="0.7">
-      0101
-      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2s" repeatCount="indefinite" />
-    </text>
-  </g>
 </svg>
