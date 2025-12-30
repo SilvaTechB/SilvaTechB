@@ -1,0 +1,103 @@
+name: 🤖 Auto-Update Profile
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update Everything
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ============== WAKATIME STATS ==============
+      - name: ⏱️ Update WakaTime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          SHOW_LANGUAGE: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+
+      # ============== BLOG POSTS ==============
+      - name: 📝 Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/silvatech,https://medium.com/feed/@silvatech"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "📝 Updated blog posts"
+          committer_username: "silva-bot"
+          committer_email: "bot@silvatech.dev"
+
+      # ============== GITHUB ACTIVITY ==============
+      - name: ⚡ Update Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Updated recent activity'
+          MAX_LINES: 10
+
+      # ============== STARRED REPOS ==============
+      - name: ⭐ Update Recently Starred Repos
+        uses: simonecorsi/mawesome@latest
+        with:
+          api-token: ${{ secrets.GITHUB_TOKEN }}
+          github-user: 'SilvaTechB'
+          comment-tag-name: 'RECENT_STARS'
+          max-stars: 10
+
+      # ============== TIMESTAMP UPDATE ==============
+      - name: 🕐 Update Timestamp
+        run: |
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          sed -i "s/<!--TIMESTAMP_START-->.*<!--TIMESTAMP_END-->/<!--TIMESTAMP_START-->$TIMESTAMP<!--TIMESTAMP_END-->/g" README.md
+          echo "Updated timestamp to: $TIMESTAMP"
+
+      # ============== COMMIT CHANGES ==============
+      - name: 💾 Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto-update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "✅ Profile updated successfully!"
+          fi
+
+      # ============== SUCCESS NOTIFICATION ==============
+      - name: 🎉 Update Complete
+        run: |
+          echo "========================================="
+          echo "✅ Profile Update Complete!"
+          echo "🕐 Time: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          echo "========================================="
+          echo "Updated sections:"
+          echo "  ⏱️  WakaTime coding stats"
+          echo "  📝 Latest blog posts"
+          echo "  ⚡ Recent GitHub activity"
+          echo "  ⭐ Recently starred repos"
+          echo "  🕐 Last update timestamp"
+          echo "========================================="
