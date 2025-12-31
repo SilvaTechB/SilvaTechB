@@ -11,8 +11,9 @@
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Welcome+to+the+Future+of+Tech+%F0%9F%9A%80;Where+Innovation+Meets+Execution)](https://git.io/typing-svg)
+   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&color=00CED1&size=22&center=true&vCenter=true&width=750&height=100&lines=Welcome+to+Silva+Tech's+Innovative+Hub!;Bot+Developer+|+Frontend+Engineer+|+API+Architect;Turning+Ideas+Into+Solutions+💡;Building+Tomorrow's+Tech+Today!+🚀">
+  </a>
 
 </div>
 
@@ -307,6 +308,9 @@ const silva = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling">
 
 <div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Welcome+to+the+Future+of+Tech+%F0%9F%9A%80;Where+Innovation+Meets+Execution)](https://git.io/typing-svg)
+
   
 **Made with ❤️ and ☕ by Silva Tech**
 
