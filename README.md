@@ -116,15 +116,15 @@ const silva = {
 </td>
 <td width="50%">
 
-### ⚡ Silva Spark
+### ⚡ Silva Spark Md
 *AI Productivity Platform*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![Stars](https://img.shields.io/github/stars/SilvaTechB/silva-spark?style=social)
-![Forks](https://img.shields.io/github/forks/SilvaTechB/silva-spark?style=social)
-![Issues](https://img.shields.io/github/issues/SilvaTechB/silva-spark)
+![Stars](https://img.shields.io/github/stars/SilvaTechB/silva-spark-md?style=social)
+![Forks](https://img.shields.io/github/forks/SilvaTechB/silva-spark-md?style=social)
+![Issues](https://img.shields.io/github/issues/SilvaTechB/silva-spark-md)
 
 **Features:**
 - 🧠 AI-driven automation
@@ -132,7 +132,7 @@ const silva = {
 - 🔗 API integrations
 - 🎨 Modern UI/UX
 
-[View Project →](https://github.com/SilvaTechB/silva-spark)
+[View Project →](https://github.com/SilvaTechB/silva-spark-md)
 
 </td>
 </tr>
