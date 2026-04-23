@@ -76,6 +76,60 @@ const silva = {
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45" /> Technologies
+
+<table align="center">
+  <tr>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" /><br>JavaScript</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" /><br>React</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" /><br>Python</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" /><br>TypeScript</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=go" width="65" /><br>Go</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=html" width="65" /><br>HTML5</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=css" width="65" /><br>CSS3</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=nextjs" width="65" /><br>Next.js</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=nodejs" width="65" /><br>Node.js</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=express" width="65" /><br>Express.js</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=fastapi" width="65" /><br>FastAPI</td>
+     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=postgres" width="65" /><br>PostgreSQL</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=tailwind" width="65" /><br>Tailwind CSS</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=linux" width="65" /><br>Linux</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" /><br>SQL</td>
+  </tr>
+  <tr>
+
+ <td align="center" width="116"><img src="https://skillicons.dev/icons?i=react" width="65" /><br>React Native</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=firebase" width="65" /><br>Firebase</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=supabase" width="65" /><br>Supabase</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=mongodb" width="65" /><br>MongoDB</td>
+    </tr>
+
+</table>
+
+
+
+## ⚙️ DevOps & Deployment
+
+<table align="center">
+  <tr>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" /><br>Docker</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" /><br>Kubernetes</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br>GitHub Actions</td>
+    <td align="center" width="116"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" /><br>AWS</td>
+     <td align="center" width="116"><img src="https://skillicons.dev/icons?i=replit" width="65" /><br>Replit</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=netlify" width="65" /><br>Netlify</td>
+  </tr>
+  <tr>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=heroku" width="65" /><br>Heroku</td>
+    <td align="center" width="116"><img src="https://skillicons.dev/icons?i=vercel" width="65" /><br>Render</td>
+
+   </tr>
+</table>
+
+---
 
 ## 🔥 Recent GitHub Activity
 
